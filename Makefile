@@ -5,7 +5,7 @@ CC = g++
 
 TARGET = brhcc
 
-SRCS = src/main.cpp src/lexer.cpp
+SRCS = src/main.cpp
 
 OBJS = $(SRCS:.c=.o)
 
